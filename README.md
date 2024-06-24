@@ -1,15 +1,12 @@
 # Trabalho M3: Implementação de Funções do Sistema de Arquivos FAT16
+**Universidade do Vale do Itajaí (UNIVALI)**
+#### **25 de Junho de 2024**
+
 
 ## Alunos
 - **Cassiano**
 - **Eduardo Weber**
 - **Eduardo Perez**
-
-## Instituição
-- **Universidade do Vale do Itajaí (UNIVALI)**
-
-## Data
-- **25 de Junho de 2024**
 
 ## Introdução
 
